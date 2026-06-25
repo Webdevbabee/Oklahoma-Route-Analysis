@@ -53,3 +53,4 @@ This project includes:
 - Bar chart — total rides by hour, 5 AM–9 PM (noon highlighted)
 - Bar chart and pie chart — rides by Oklahoma region
 - **Interactive choropleth map** (`oklahoma_rides_map.html`) — open in any browser to zoom/pan across Oklahoma counties, colored by total ride volume
+<img width="2267" height="1173" alt="image" src="https://github.com/user-attachments/assets/9a7dd92d-30f9-46a0-a9cb-0c312fbe6898" />
